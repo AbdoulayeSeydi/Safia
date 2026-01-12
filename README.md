@@ -1,4 +1,4 @@
-# ![Safia Logo](logo.png) Safia — Federal Contract Matchmaking for SMEs
+# Safia — Federal Contract Matchmaking for SMEs
 [Visit Safia Website](https://usesafia.com/)
 
 ## Overview
