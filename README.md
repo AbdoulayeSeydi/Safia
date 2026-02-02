@@ -6,8 +6,9 @@ Safia was a government contracting matchmaking platform operating from **June 20
 
 Safia was built to reduce the information asymmetry and overhead that prevents SMEs from participating effectively in federal procurement.
 
-**Status:** Sunset  
+**Status:** Live
 **Operational Period:** June 2025 – Present 
+
 **Scope:** U.S. Federal Government Contracts
 
 ---
