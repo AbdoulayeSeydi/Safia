@@ -7,12 +7,12 @@ Safia was a government contracting matchmaking platform operating from **June 20
 Safia was built to reduce the information asymmetry and overhead that prevents SMEs from participating effectively in federal procurement.
 
 **Status:** Sunset  
-**Operational Period:** June 2025 – November 2025  
+**Operational Period:** June 2025 – Presnset 
 **Scope:** U.S. Federal Government Contracts
 
 ---
 
-## What Safia Did
+## What Safia Ddoes
 
 - Matched SMEs to relevant federal contract opportunities
 - Filtered opportunities based on business size, capabilities, and eligibility
@@ -21,12 +21,12 @@ Safia was built to reduce the information asymmetry and overhead that prevents S
 
 ---
 
-## Key Metrics (During Operation)
+## Key Metrics 
 
 - **~30 contract matches per month**
-- **1,000+ total federal contracts matched**
-- **$1M+ in aggregate contract value surfaced**
-- **Served SMEs across 10+ U.S. states**
+- **500+ total federal contracts matched**
+- **$10+ in aggregate contract value surfaced**
+- **Served SMEs across 5+ U.S. states**
 - **Federal-only focus (no state/local contracts)**
 
 ---
@@ -38,7 +38,7 @@ Safia was built to reduce the information asymmetry and overhead that prevents S
 - Charge contingency fees tied to contract awards  
 - Guarantee contract wins  
 
-Safia operated strictly as a **matching and discovery platform**, not a procurement intermediary.
+Safia operates strictly as a **matching and discovery platform**, not a procurement intermediary.
 
 ---
 
@@ -72,15 +72,11 @@ Safia validated **demand and engagement**, but did not reach full product depth 
 
 ## Outcome
 
-Safia demonstrated that:
+Safia demonstrates that:
 - SMEs want **curated, relevance-based** access to federal opportunities
 - Raw RFP search is insufficient for small operators
 - Match quality matters more than volume
 
-The project was discontinued to focus on other ventures.
 
----
 
-## Contact
-Abdoulaye Seydi  
-abdoulayeaseydi@gmail.com
+
