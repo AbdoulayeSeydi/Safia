@@ -24,9 +24,9 @@ Safia was built to reduce the information asymmetry and overhead that prevents S
 
 ## Key Metrics 
 
-- **~30 contract matches per month**
+- **~30 contract matches per month per user**
 - **1000+ total federal contracts matched**
-- **$10+ in aggregate contract value surfaced**
+- **$10M+ in aggregate contract value surfaced**
 - **Served SMEs across 5+ U.S. states**
 - **Federal-only focus (no state/local contracts)**
 
