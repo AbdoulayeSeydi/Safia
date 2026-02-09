@@ -13,7 +13,7 @@ Safia was built to reduce the information asymmetry and overhead that prevents S
 
 ---
 
-## What Safia Ddoes
+## What Safia Does
 
 - Matched SMEs to relevant federal contract opportunities
 - Filtered opportunities based on business size, capabilities, and eligibility
