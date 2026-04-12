@@ -2,7 +2,7 @@
 [Visit Safia Website](https://usesafia.com/)
 
 ## Overview
-Safia was a government contracting matchmaking platform operating from **June 2025 to November 2025**, focused exclusively on **federal contracts**. The platform helped small and medium-sized enterprises (SMEs) discover, qualify for, and match with relevant federal contracting opportunities.
+Safia was a government contracting matchmaking platform, focused exclusively on **federal contracts**. The platform helped small and medium-sized enterprises (SMEs) discover, qualify for, and match with relevant federal contracting opportunities.
 
 Safia was built to reduce the information asymmetry and overhead that prevents SMEs from participating effectively in federal procurement.
 
